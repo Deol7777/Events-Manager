@@ -1,0 +1,53 @@
+{
+    "events": [
+        {
+            "title": "Summer Festival",
+            "image": "https://www.hayward-ca.gov/sites/default/files/pictures/Special-Events-Guide.svg",
+            "date": "2025-07-16",
+            "description": "Celebrate summer with live music, food trucks, games, and fun activities for all ages.",
+            "id": "e0dfe070-b1b4-4221-89fb-434fa770c9e1"
+        },
+        {
+            "title": "Tech Innovators Conference",
+            "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80",
+            "date": "2024-09-15",
+            "description": "A gathering of leading minds in technology to discuss the future of innovation.",
+            "id": "1a2b3c4d-5678-9101-1121-314151617181"
+        },
+        {
+            "title": "Downtown Food Festival",
+            "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=800&q=80",
+            "date": "2024-08-20",
+            "description": "Enjoy delicious food from local vendors and live music in the heart of the city.",
+            "id": "2b3c4d5e-6789-1011-1213-415161718192"
+        },
+        {
+            "title": "Charity Fun Run",
+            "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=800&q=80",
+            "date": "2024-10-05",
+            "description": "Join us for a 5K run to support local charities and promote healthy living.",
+            "id": "3c4d5e6f-7891-0111-2131-516171819203"
+        },
+        {
+            "title": "Art in the Park",
+            "image": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=800&q=80",
+            "date": "2024-07-22",
+            "description": "An outdoor exhibition featuring works from emerging and established artists.",
+            "id": "4d5e6f7g-8910-1112-3141-617181920214"
+        },
+        {
+            "title": "Startup Pitch Night",
+            "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=800&q=80",
+            "date": "2024-11-12",
+            "description": "Watch startups pitch their ideas to investors and network with entrepreneurs.",
+            "id": "5e6f7g8h-9101-1121-4151-718192021225"
+        }
+    ],
+    "users": [
+        {
+            "email": "luiscarvalho757@gmail.com",
+            "password": "$2a$12$qqaeU7.azWk4KEJhU6mLU.IwD7aCohh7CJUYfTNSR6Vb2Y3JNmU7G",
+            "id": "3b82fc31-886e-497b-ac7d-2fceb9d40634"
+        }
+    ]
+}

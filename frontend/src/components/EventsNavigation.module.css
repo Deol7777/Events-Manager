@@ -1,0 +1,49 @@
+.header {
+  display: flex;
+  justify-content: center;
+  margin-top: 70px; /* Add space for fixed navbar */
+  backdrop-filter: blur(20px);
+}
+
+.list {
+  display: flex;
+  gap: 1rem;
+}
+
+.list a {
+  background: #C1C866;
+  color: #4d1313;
+  padding: 0.75rem 1.5rem;
+  border-radius: 12px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  border: 1px solid rgba(102, 126, 234, 0.3);
+}
+
+.list a:hover,
+.list a:active,
+.list a.active {
+  background: #c1c86678;
+  transform: scale(1.2);
+  box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+}
+
+@media (max-width: 768px) {
+  .header {
+    margin-top: 120px; /* More space on mobile due to taller navbar */
+    padding: 1rem;
+  }
+  
+  .list {
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  
+  .list a {
+    width: 100%;
+    text-align: center;
+    max-width: 200px;
+  }
+}
